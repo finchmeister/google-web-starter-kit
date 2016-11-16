@@ -1,4 +1,4 @@
-# google-web-starter-kit
+# google-web-starter-kit v0.6.4
 
 A personal copy of Google's [Web Starter Pack](https://github.com/google/web-starter-kit).
 
